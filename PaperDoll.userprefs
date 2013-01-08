@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Skins\Necromancer GUI\NecromancerGUIScript.js">
+    <Files>
+      <File FileName="Assets\Scripts\UnityGUI.js" Line="219" Column="72" />
+      <File FileName="Assets\Scripts\KeyboardInput.js" Line="6" Column="29" />
+      <File FileName="Assets\Skins\Necromancer GUI\NecromancerGUIScript.js" Line="163" Column="60" />
+      <File FileName="Assets\Scripts\Basic Game Object.js" Line="5" Column="1" />
+      <File FileName="Assets\Scripts\PickMeUp.js" Line="18" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
